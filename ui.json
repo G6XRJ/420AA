@@ -33,6 +33,12 @@
                     "text": "Link to Discord",
                     "url": "https://discord.gg/kQTvetH5"
                 }
+            },
+                        {
+                "link2": {
+                    "text": "Open Ticket",
+                    "url": "https://discord.com/channels/1178595571410419732/1180593106769416343/1180595186284380230"
+                }
             }
         ]
     }
